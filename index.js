@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 /*!
  * router
  * Copyright(c) 2013 Roman Shtylman
